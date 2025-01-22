@@ -2,6 +2,10 @@
 
 This Python project simulates a custom college football season by ranking FBS teams based on win percentages, assigning seeds, organizing teams into conferences, and simulating games with probabilities based on seed differences.
 
+As an avid fan of both college football and international soccer, I wanted to explore how a "Champions League" or "World Cup" format would work for American college football in order to determine the champion on the field and not by subjective rankings.
+
+Future improvements will include scraping data for the past 3 seasons to determine win %, scraping historical data to adjust head-to-head matchup percentages, and UX for simulating full conference draws and seasons.
+
 ## Features
 
 - **Team Ranking**: Ranks the top 128 teams by win percentage over the past three seasons.
